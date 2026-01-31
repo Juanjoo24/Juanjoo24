@@ -1,7 +1,7 @@
 ## 👋 Hola, soy Juan José
 
 🎓 Estudiante de **2º de DAW (Desarrollo de Aplicaciones Web)**, con interés en  
-**self-hosting, privacidad y seguridad**.
+**self-hosting, privacidad, seguridad y hardaware y montaje de ordenadores**.
 
 🐳 Me gusta montar y gestionar servicios usando **Docker** y herramientas open-source.
 
@@ -18,8 +18,9 @@
 - 🖼️ **Immich** – gestión privada de fotos usando Docker  
 
 ### 🌱 Aprendiendo actualmente
-- Fundamentos de infraestructura y DevOps  
-- Buenas prácticas de desarrollo de aplicaciones web  
+- Desarrollo de aplicaciones web (frontend y backend)
+- Control de versiones con Git y GitHub
+- Despliegue de páginas web y aplicaciones
 
 ### 🌐 Portfolio
 👉 [Mi portfolio](https://juanjoo24.github.io)
