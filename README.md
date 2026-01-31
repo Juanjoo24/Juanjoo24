@@ -7,7 +7,6 @@
 
 ### 🔧 Tecnologías y herramientas
 - Docker y Docker Compose  
-- Linux  
 - Git y GitHub  
 - Servicios auto-alojados  
 - Conceptos básicos de redes y seguridad  
