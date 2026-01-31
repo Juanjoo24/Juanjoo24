@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hola, soy Juanjo
 
-<!--
-**Juanjoo24/Juanjoo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **2º de DAW (Desarrollo de Aplicaciones Web)**, con interés en  
+**self-hosting, privacidad y seguridad**.
 
-Here are some ideas to get you started:
+🐳 Me gusta montar y gestionar servicios usando **Docker** y herramientas open-source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tecnologías y herramientas
+- Docker y Docker Compose  
+- Linux  
+- Git y GitHub  
+- Servicios auto-alojados  
+- Conceptos básicos de redes y seguridad  
+- HTML y CSS  
+
+### 🚀 Proyectos
+- 🔐 **Vaultwarden** – gestor de contraseñas auto-alojado, priorizando privacidad  
+- 🖼️ **Immich** – gestión privada de fotos usando Docker  
+
+### 🌱 Aprendiendo actualmente
+- Fundamentos de infraestructura y DevOps  
+- Buenas prácticas de desarrollo de aplicaciones web  
+
+### 🌐 Portfolio
+👉 [Mi portfolio](https://juanjoo24.github.io)
+
+### 📫 Contacto
+- GitHub: [Juanjoo24](https://github.com/Juanjoo24)  
+- Correo: [contacto](mailto:juanjoo24.geometry212@passfwd.com)
