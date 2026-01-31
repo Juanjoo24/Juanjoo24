@@ -9,17 +9,11 @@
 - Docker y Docker Compose  
 - Git y GitHub  
 - Servicios auto-alojados  
-- Conceptos básicos de redes y seguridad  
 - HTML y CSS  
 
 ### 🚀 Proyectos
 - 🔐 **Vaultwarden** – gestor de contraseñas auto-alojado, priorizando privacidad  
 - 🖼️ **Immich** – gestión privada de fotos usando Docker  
-
-### 🌱 Aprendiendo actualmente
-- Desarrollo de aplicaciones web (frontend y backend)
-- Control de versiones con Git y GitHub
-- Despliegue de páginas web y aplicaciones
 
 ### 🌐 Portfolio
 👉 [Mi portfolio](https://juanjoo24.github.io)
