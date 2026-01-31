@@ -1,4 +1,4 @@
-## 👋 Hola, soy Juanjo
+## 👋 Hola, soy Juan José
 
 🎓 Estudiante de **2º de DAW (Desarrollo de Aplicaciones Web)**, con interés en  
 **self-hosting, privacidad y seguridad**.
