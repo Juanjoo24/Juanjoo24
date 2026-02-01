@@ -20,5 +20,5 @@
 
 ### 📫 Contacto
 - GitHub: [Juanjoo24](https://github.com/Juanjoo24)  
-- Correo: [contacto](mailto:juanjoo24.geometry212@passfwd.com) juanjoo24.geometry212@passfwd.com
+- Correo: [contacto](mailto:juanjoo24.geometry212@passfwd.com)   juanjoo24.geometry212@passfwd.com
 - Linkedin: [Juan José](https://www.linkedin.com/in/juan-jos%C3%A8-hoyos-castrillon-7578323a8/) 
