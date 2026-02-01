@@ -16,7 +16,7 @@
 - 🖼️ **Immich** – gestión privada de fotos usando Docker  
 
 ### 🌐 Portfolio
-👉 [Mi portfolio]()
+👉 [Mi portfolio](https://juanjoo24.github.io/)
 
 ### 📫 Contacto
 - GitHub: [Juanjoo24](https://github.com/Juanjoo24)  
