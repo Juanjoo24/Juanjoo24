@@ -9,7 +9,10 @@
 - Docker y Docker Compose  
 - Git y GitHub  
 - Servicios auto-alojados  
-- HTML y CSS  
+- HTML y CSS
+- Java
+- JavaScript
+- React 
 
 ### 🚀 Proyectos
 - 🔐 **Vaultwarden** – gestor de contraseñas auto-alojado, priorizando privacidad  
