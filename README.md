@@ -12,7 +12,8 @@
 - HTML y CSS
 - Java
 - JavaScript
-- React 
+- React
+- Bootstrap
 
 ### 🚀 Proyectos
 - 🔐 **Vaultwarden** – gestor de contraseñas auto-alojado, priorizando privacidad  
