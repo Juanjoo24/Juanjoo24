@@ -1,7 +1,7 @@
 ## 👋 Hola, soy Juan José
 
-🎓 Estudiante de **2º de DAW (Desarrollo de Aplicaciones Web)**, con interés en  
-**self-hosting, privacidad, seguridad y hardaware y montaje de ordenadores**.
+🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y Técnico en Sistemas Microinformáticos y Redes (SMR), 
+con especial interés en self-hosting, privacidad, seguridad, hardware, montaje y mantenimiento de ordenadores.
 
 🐳 Me gusta montar y gestionar servicios usando **Docker** y herramientas open-source.
 
@@ -14,10 +14,12 @@
 - JavaScript
 - React
 - Bootstrap
+- Self-hosting y servicios autoalojados
 
-### 🚀 Proyectos
-- 🔐 **Vaultwarden** – gestor de contraseñas auto-alojado, priorizando privacidad  
-- 🖼️ **Immich** – gestión privada de fotos usando Docker  
+### 🚀 Proyectos / Homelab
+🖼️ Immich – Plataforma privada de gestión de fotografías desplegada con Docker Compose, incluyendo PostgreSQL, Valkey y servicio de machine learning con CUDA.
+☁️ Nextcloud – Nube privada autoalojada mediante Docker, con MariaDB y Redis.
+📄 Stirling-PDF – Plataforma autoalojada para gestión y procesamiento de documentos PDF mediante Docker.
 
 ### 🌐 Portfolio
 👉 [Mi portfolio](https://juanjoo24.github.io/)
